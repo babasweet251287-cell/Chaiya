@@ -1,0 +1,10 @@
+{
+  "name": "Nirmal Chhaya Towers",
+  "description": "Hyper-immersive architectural showcase and sky residences on VIP Road, Chandigarh Capital Region, featuring scroll-driven cinematic visuals and Google Maps grounded neighborhood intelligence.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
